@@ -14,7 +14,7 @@ To start the server in production mode: <br>
 `npm start`
 
 Create an account on MongoDB Atlas and set ENV variable to refer to your DB:<br>
-`mongodb+srv://<db_name>:<password>@cluster0.xbn3a.mongodb.net/<dbname>?retryWrites=true&w=majority`
+`MONGODB_URI=mongodb+srv://<db_name>:<password>@cluster0.xbn3a.mongodb.net/<dbname>?retryWrites=true&w=majority`
 
 Hint: start with an ubuntu image:<br>
 `From ubuntu:16.04`
