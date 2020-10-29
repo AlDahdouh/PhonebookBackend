@@ -13,6 +13,9 @@ Install all required software using the following command:<br>
 To start the server in production mode: <br>
 `npm start`
 
+Create an account on MongoDB Atlas and set ENV variable to refer to your DB:
+`mongodb+srv://<db_name>:<password>@cluster0.xbn3a.mongodb.net/<dbname>?retryWrites=true&w=majority`
+
 Hint: start with an ubuntu image:<br>
 `From ubuntu:16.04`
 
