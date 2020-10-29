@@ -15,3 +15,6 @@ To start the server in production mode: <br>
 
 Hint: start with an ubuntu image:<br>
 `From ubuntu:16.04`
+
+# Run the application
+This application includes the backend and the frontend of a Phonebook project as a part my work within the course Full Stack Open 2020 offered by university of Helsinki. To run the application, you have to full the instructions above and to expose a port (e.g., 3001). Test the application on your browser (e.g., http://localhost:3001).
